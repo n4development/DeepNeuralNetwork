@@ -207,9 +207,6 @@ feed_dict_test = {x: data.test.images,
                   y_true_cls: data.test.cls}
 
 ## Lab1
-
-
-
 print_accuracy()
 plot_example_errors()
 
